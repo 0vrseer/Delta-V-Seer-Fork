@@ -46,7 +46,7 @@ public sealed partial class SacrificialAltarComponent : Component
     /// Sacrificed Entity seals into given prototype
     /// </summary>
     [DataField]
-    public EntProtoId SealsInto = "CrystalSoul";
+    public EntProtoId SealsInto = "MobCrystalSoul";
 }
 
 [Serializable, NetSerializable]
