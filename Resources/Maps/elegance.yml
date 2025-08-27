@@ -149,9 +149,7 @@ entities:
     - type: Transform
     - type: Map
       mapPaused: true
-    - type: PhysicsMap
     - type: GridTree
-    - type: MovedGrids
     - type: Broadphase
     - type: OccluderTree
     - type: Parallax
@@ -201073,10 +201071,10 @@ entities:
 
         [color=#1a8e22][bold]===================================================[/color][/bold]
 
-        Greetings, Elegance Atmospheric Technicians. We hope you are enjoying the complete overhaul of the Engineering department. If not, please feel free to forward your complaints to Central Command. You have a lot more space to tinker with than before, but at the cost of the Thermo-Electric Generator. 
+        Greetings, Elegance Atmospheric Technicians. We hope you are enjoying the complete overhaul of the Engineering department. If not, please feel free to forward your complaints to Central Command. You have a lot more space to tinker with than before, but at the cost of the Thermo-Electric Generator.
 
 
-        We advise that you, generally, should refrain from mindlessly connecting the Water Vapor Inlet to the Distribution Line. While Feroxi may benefit from such a setup, Slimefolk will suffer. 
+        We advise that you, generally, should refrain from mindlessly connecting the Water Vapor Inlet to the Distribution Line. While Feroxi may benefit from such a setup, Slimefolk will suffer.
 
 
         To clarify, this is merely [italic]advice[/italic], of course, but a very important suggestion nonetheless. Again, please feel free to forward any complaints to Central Command. We hope to make Lady Elegance great for all.
